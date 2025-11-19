@@ -1,0 +1,6 @@
+/home/uday/IdeaProjects/RayGame/build/CMakeFiles/RayGame.dir
+/home/uday/IdeaProjects/RayGame/build/CMakeFiles/edit_cache.dir
+/home/uday/IdeaProjects/RayGame/build/CMakeFiles/rebuild_cache.dir
+/home/uday/IdeaProjects/RayGame/build/libs/vk-bootstrap/CMakeFiles/vk-bootstrap.dir
+/home/uday/IdeaProjects/RayGame/build/libs/vk-bootstrap/CMakeFiles/edit_cache.dir
+/home/uday/IdeaProjects/RayGame/build/libs/vk-bootstrap/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+2137e687eedd94d65c2d9a942ecdb92f shaders/raytracer.frag.spv
+67a92baaa8b72a86b292c9d78595af73 shaders/raytracer.vert.spv
