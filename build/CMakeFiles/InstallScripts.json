@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/uday/IdeaProjects/RayGame/build/cmake_install.cmake",
-		"/home/uday/IdeaProjects/RayGame/build/libs/vk-bootstrap/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

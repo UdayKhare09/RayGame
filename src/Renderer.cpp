@@ -451,6 +451,7 @@ struct SceneGPU {
     PointLightGPU pointLight;
     SpotLightGPU spotLight;
     int sphereCount;
+    float padding[3];
     float sunDirection[3];
 };
 
